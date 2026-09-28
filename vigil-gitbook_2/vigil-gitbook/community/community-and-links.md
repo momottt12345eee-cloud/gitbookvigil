@@ -8,7 +8,7 @@ description: Follow what we're building, talk to the team, and meet other Vigil 
 
 | Channel | Link |
 | --- | --- |
-| Website | Coming soon |
+| Website | [vigilweb3.com](https://www.vigilweb3.com/) |
 | Docs | [vigil-1.gitbook.io/vigil-docs](https://vigil-1.gitbook.io/vigil-docs) |
 | X | [@vigil\_web3](https://x.com/vigil_web3) |
 | Telegram | [t.me/vigilweb3](https://t.me/vigilweb3) |
