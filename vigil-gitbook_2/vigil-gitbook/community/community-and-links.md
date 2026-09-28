@@ -4,24 +4,23 @@ description: Follow what we're building, talk to the team, and meet other Vigil 
 
 # Community & Links
 
-<!-- TODO: replace every placeholder below. -->
-
 ## Official channels
 
 | Channel | Link |
 | --- | --- |
-| Website | `https://vigil.example` |
-| X | `https://x.com/your_handle` |
-| Telegram (community) | `https://t.me/your_group` |
-| Telegram (announcements) | `https://t.me/your_channel` |
-
-## Team
-
-**[Founder name]** — [one-line background]
+| Website | Coming soon |
+| Docs | [vigil-1.gitbook.io/vigil-docs](https://vigil-1.gitbook.io/vigil-docs) |
+| X | [@vigil\_web3](https://x.com/vigil_web3) |
+| Telegram | [t.me/vigilweb3](https://t.me/vigilweb3) |
 
 ## Contact
 
-For help, message us in the Telegram group or on X.
+| For | Where |
+| --- | --- |
+| Help and bug reports | [Telegram](https://t.me/vigilweb3), see [Feedback and Support](../closed-beta-guide/feedback-and-support.md) |
+| Invites and launch news | [@vigil\_web3](https://x.com/vigil_web3) on X |
+| Press, partners, creators | Message [@vigil\_web3](https://x.com/vigil_web3) or ask in [Telegram](https://t.me/vigilweb3) |
+| Logos and images | [Brand Assets](brand-assets.md) |
 
 ## Help spread the word
 
