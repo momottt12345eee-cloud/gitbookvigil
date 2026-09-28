@@ -30,7 +30,7 @@ Automated trading can fail because of fast markets, low liquidity, slippage, net
 
 ## Token risk
 
-The Vigil token is planned, not live. When it launches:
+The Vigil token is not live yet. It is scheduled to launch before the Closed Beta opens. When it launches:
 
 * It is a way to pay for access to Vigil, not an investment product.
 * Its price can go up or down, and it can lose value. Burning tokens does not guarantee any price.

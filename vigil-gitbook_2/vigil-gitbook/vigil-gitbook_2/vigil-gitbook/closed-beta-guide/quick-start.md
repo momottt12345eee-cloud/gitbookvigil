@@ -36,6 +36,12 @@ Start small. You can always add more later.
 {% endstep %}
 
 {% step %}
+### Activate access
+
+Hold enough Vigil tokens to cover one month (100 USDT worth), then approve the monthly payment in **Settings → Plan**. See [Access During the Beta](subscriptions-during-the-beta.md).
+{% endstep %}
+
+{% step %}
 ### Set your guardrails
 
 Before your first plan, set:

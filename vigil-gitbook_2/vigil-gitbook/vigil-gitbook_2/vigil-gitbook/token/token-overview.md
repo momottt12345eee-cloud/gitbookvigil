@@ -7,7 +7,7 @@ description: Vigil will introduce a token that powers access to the agent. Here'
 <!-- TODO: confirm token name, ticker, chain, total supply and launch date before publishing. -->
 
 {% hint style="info" %}
-**Coming after the Beta.** The Vigil token has not launched yet. There is no official token today, and nothing is for sale. Any token, contract address or presale claiming to be Vigil's before we announce it on our [official channels](../community/community-and-links.md) is not from us.
+**Launching before the Closed Beta.** The Vigil token has not launched yet. There is no official token today, and nothing is for sale. Any token, contract address or presale claiming to be Vigil's before we announce it on our [official channels](../community/community-and-links.md) is not from us.
 {% endhint %}
 
 ## Why a token
@@ -22,7 +22,7 @@ Vigil is a product people pay for every month. The token turns that monthly usag
 
 | Step | What happens |
 | --- | --- |
-| 1. Use Vigil | Each account uses **100 USDT worth** of tokens per month |
+| 1. Use Vigil (from the first day of the Beta) | Each account uses **100 USDT worth** of tokens per month |
 | 2. Split | Every payment is split automatically: **90%** and **10%** |
 | 3. Burn | **90%** is sent to a burn address and removed from supply forever |
 | 4. Build | **10%** goes to the project treasury for development and operations |
@@ -36,7 +36,7 @@ Vigil is a product people pay for every month. The token turns that monthly usag
 | Monthly access cost | 100 USDT worth of tokens |
 | Burn share | 90% of all tokens received |
 | Project share | 10% of all tokens received |
-| Launch | After the Closed Beta, announced on official channels only |
+| Launch | Before the Closed Beta opens, announced on official channels only |
 
 ## Read next
 

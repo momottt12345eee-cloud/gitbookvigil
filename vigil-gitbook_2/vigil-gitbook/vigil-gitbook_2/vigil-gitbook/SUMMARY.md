@@ -18,7 +18,7 @@
 * [Managing Your Chats](closed-beta-guide/managing-your-chats.md)
 * [Managing Your Watches](closed-beta-guide/managing-your-watches.md)
 * [Feedback and Support](closed-beta-guide/feedback-and-support.md)
-* [Subscriptions During the Beta](closed-beta-guide/subscriptions-during-the-beta.md)
+* [Access During the Beta](closed-beta-guide/subscriptions-during-the-beta.md)
 * [FAQ](closed-beta-guide/faq.md)
 
 ## Token

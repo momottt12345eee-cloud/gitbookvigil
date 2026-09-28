@@ -9,7 +9,7 @@ The Vigil Closed Beta is the first time real traders use Vigil with real markets
 ## What you get
 
 * **Early access** to Vigil before public launch
-* **Paid features at no cost** for the length of the Beta — see [Subscriptions During the Beta](subscriptions-during-the-beta.md)
+* **Full access to Vigil**, paid in the Vigil token from day one — see [Access During the Beta](subscriptions-during-the-beta.md)
 * **A direct line to the team** for questions and bug reports
 * **A real say** in what we build next
 

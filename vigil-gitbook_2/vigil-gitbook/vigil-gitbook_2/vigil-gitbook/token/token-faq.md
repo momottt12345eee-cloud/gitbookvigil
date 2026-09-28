@@ -8,7 +8,7 @@ description: Common questions about the Vigil token, monthly usage and the burn.
 
 <summary>Is the token live?</summary>
 
-Not yet. The token launches after the Closed Beta. Launch details will only be announced on our [official channels](../community/community-and-links.md).
+Not yet. The token launches before the Closed Beta opens, and Beta access is paid in it from day one. Launch details will only be announced on our [official channels](../community/community-and-links.md).
 
 </details>
 

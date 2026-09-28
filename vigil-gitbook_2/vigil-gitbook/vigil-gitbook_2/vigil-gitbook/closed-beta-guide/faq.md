@@ -84,7 +84,7 @@ Report it right away with what you asked for, what you expected, what happened, 
 
 <summary>Is there a Vigil token?</summary>
 
-Not yet. A Vigil token is planned for after the Beta. Access will cost 100 USDT worth of tokens per month, with 90% burned and 10% going to the project. See [Token Overview](../token/token-overview.md).
+Not yet. The Vigil token launches before the Closed Beta opens. From the first day of the Beta, access costs 100 USDT worth of tokens per month, with 90% burned and 10% going to the project. See [Token Overview](../token/token-overview.md).
 
 Until we announce it on official channels, any token or contract claiming to be Vigil's is not from us.
 

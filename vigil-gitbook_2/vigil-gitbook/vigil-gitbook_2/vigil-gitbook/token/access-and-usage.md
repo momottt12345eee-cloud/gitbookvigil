@@ -63,7 +63,7 @@ On your billing date, the payment is taken and split automatically: 90% burned, 
 
 ## During the Closed Beta
 
-Nothing changes yet. Beta access stays free until the token launches. See [Subscriptions During the Beta](../closed-beta-guide/subscriptions-during-the-beta.md).
+The token launches before the Closed Beta opens, so the Beta is paid in the token from day one: the same 100 USDT worth per month, with the same 90% burn. See [Access During the Beta](../closed-beta-guide/subscriptions-during-the-beta.md).
 
 {% hint style="danger" %}
 Vigil will only ever ask you to approve the exact monthly amount, inside the app. We will **never** ask you to send tokens to a personal wallet, a DM link or a "support" address.
