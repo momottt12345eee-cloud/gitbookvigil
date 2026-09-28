@@ -4,18 +4,14 @@ description: Follow what we're building, talk to the team, and meet other Vigil 
 
 # Community & Links
 
-<!-- TODO: add the website URL once the domain is live. -->
-
 ## Official channels
 
 | Channel | Link |
 | --- | --- |
-| Website | Coming soon |
+| Website | [vigilweb3.com](https://www.vigilweb3.com/) |
 | Docs | [vigil-1.gitbook.io/vigil-docs](https://vigil-1.gitbook.io/vigil-docs) |
 | X | [@vigil\_web3](https://x.com/vigil_web3) |
 | Telegram | [t.me/vigilweb3](https://t.me/vigilweb3) |
-
-<!-- TODO: add a short team section (names or handles, one line each) when you're ready to show it. -->
 
 ## Contact
 

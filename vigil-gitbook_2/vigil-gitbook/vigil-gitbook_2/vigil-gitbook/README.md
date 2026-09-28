@@ -31,6 +31,7 @@ Every plan in Vigil follows the same loop:
 
 ## Stay in the loop
 
+* **Website** — [vigilweb3.com](https://www.vigilweb3.com/) to see a day with Vigil and try a plan
 * **X** — [@vigil\_web3](https://x.com/vigil_web3) for launch news and invite waves
 * **Telegram** — [t.me/vigilweb3](https://t.me/vigilweb3) to talk to the team and other traders
 
